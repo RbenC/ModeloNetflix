@@ -1,4 +1,4 @@
-# prueba10examen
+# Modelo de Página que muestra una lista de series de Tv desde una api
 
 ## Project setup
 ```
